@@ -1,0 +1,51 @@
+2023.04.18 17:20:10 INFO  Started: Metals version 0.11.11 in workspace '/Users/tiffanyallen/Documents/Code Projects/beginner_de_project_stream' for client Visual Studio Code 1.77.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/tiffanyallen/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.18 17:20:10 INFO  time: initialize in 0.74s
+2023.04.18 17:20:15 WARN  Build server is not auto-connectable.
+2023.04.18 17:20:43 INFO  running '/Users/tiffanyallen/.jabba/jdk/adopt@1.11.0-11/Contents/Home/bin/java -Dfile.encoding=UTF-8 -Dmaven.multiModuleProjectDirectory=/Users/tiffanyallen/Documents/Code Projects/beginner_de_project_stream -Dmaven.home=/var/folders/p_/zcgvkqqx2fs3k05z4q9vkhx00000gn/T/metals7131086951942978818 -cp /var/folders/p_/zcgvkqqx2fs3k05z4q9vkhx00000gn/T/metals7131086951942978818/maven-wrapper.jar org.apache.maven.wrapper.MavenWrapperMain generate-sources ch.epfl.scala:bloop-maven-plugin:2.0.0:bloopInstall -DdownloadSources=true'
+2023.04.18 17:20:46 INFO  [INFO] Scanning for projects...
+2023.04.18 17:20:46 INFO  Downloading from central: https://repo.maven.apache.org/maven2/ch/epfl/scala/bloop-maven-plugin/2.0.0/bloop-maven-plugin-2.0.0.pom
+2023.04.18 17:20:46 INFO  Progress (1): 2.7/7.0 kB
+2023.04.18 17:20:46 INFO  Progress (1): 5.5/7.0 kB
+2023.04.18 17:20:46 INFO  Progress (1): 7.0 kB    
+Apr 18, 2023 5:20:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.04.18 17:20:46 INFO                      
+2023.04.18 17:20:46 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/ch/epfl/scala/bloop-maven-plugin/2.0.0/bloop-maven-plugin-2.0.0.pom (7.0 kB at 15 kB/s)
+2023.04.18 17:20:46 INFO  Downloading from central: https://repo.maven.apache.org/maven2/ch/epfl/scala/bloop-maven-plugin/2.0.0/bloop-maven-plugin-2.0.0.jar
+2023.04.18 17:20:46 INFO  Progress (1): 2.7/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 5.5/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 8.2/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 11/44 kB 
+2023.04.18 17:20:46 INFO  Progress (1): 14/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 16/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 19/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 21/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 24/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 27/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 30/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 32/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 35/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 38/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 41/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 43/44 kB
+2023.04.18 17:20:46 INFO  Progress (1): 44 kB   
+2023.04.18 17:20:46 INFO                     
+2023.04.18 17:20:46 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/ch/epfl/scala/bloop-maven-plugin/2.0.0/bloop-maven-plugin-2.0.0.jar (44 kB at 205 kB/s)
+2023.04.18 17:20:46 INFO  [INFO] 
+2023.04.18 17:20:46 INFO  [INFO] --------------< com.startdataengineering:frauddetection >---------------
+2023.04.18 17:20:46 INFO  [INFO] Building Start Data Engineering Fraud detection stream pipeline 0.1
+2023.04.18 17:20:46 INFO  [INFO] --------------------------------[ jar ]---------------------------------
+2023.04.18 17:20:48 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/apache/flink/flink-annotations/1.11.2/flink-annotations-1.11.2.pom
+2023.04.18 17:20:48 INFO  Progress (1): 2.7/4.4 kB
+2023.04.18 17:20:48 INFO  Progress (1): 4.4 kB    
+2023.04.18 17:20:48 INFO                      
+2023.04.18 17:20:48 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/flink/flink-annotations/1.11.2/flink-annotations-1.11.2.pom (4.4 kB at 22 kB/s)
+2023.04.18 17:20:48 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/apache/flink/flink-metrics-core/1.11.2/flink-metrics-core-1.11.2.pom
+2023.04.18 17:20:48 INFO  user cancelled mvn bloopInstall
+2023.04.18 17:20:48 INFO  time: ran 'mvn bloopInstall' in 5.08s
